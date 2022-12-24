@@ -1,0 +1,32 @@
+textarea{
+    width: 90%;
+    height:10vh;
+    display:block;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: lightgoldenrodyellow;
+}
+#output {
+  border: 1px solid black;
+  height:10vh;
+    display:block;
+    margin: 1rem;
+    padding: 1rem;
+    width:90%;
+}
+.top {
+    background-color: yellow;
+    padding: 2rem;
+    text-align: center;
+}
+
+.button{
+    background-color: coral;
+    margin: 0;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    
+}
