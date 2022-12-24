@@ -15,16 +15,16 @@ textarea{
     width:90%;
 }
 .top {
-    background-color: rgb(17, 159, 90);
+    background-color: rgb(101, 238, 172);
     padding: 2rem;
     text-align: center;
 }
 
 .button{
-    background-color: coral;
+    background-color:  rgb(101, 238, 172);
     margin: 0;
   position: absolute;
-  top: 35%;
+  top: 43%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
